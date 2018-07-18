@@ -10,12 +10,12 @@
 
 ### 설명
 
-이 프로그램은 μTorrent를 완벽히 제거해 줍니다
+이 프로그램은 μTorrent를 완벽히 제거해 줍니다.
 
 ### 사용법
 
-- μTorrent_Perfect_Uninstaller.bat 를 관리자권한으로 실행
-- μTorrent 제거창에서 μTorrent 제거
-- μTorrent 제거후 ENTER 키 누름
-- 관련 레지스트리 자동 제거
-- μTorrent 찌꺼기 자동 제거
+1. μTorrent_Perfect_Uninstaller.bat 를 관리자권한으로 실행
+2. μTorrent 제거창에서 μTorrent 제거
+3. μTorrent 제거후 ENTER 키 누름
+4. 관련 레지스트리 자동 제거
+5. μTorrent 찌꺼기 자동 제거
