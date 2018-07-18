@@ -8,6 +8,10 @@
 
 * [GNU General Public License](https://www.gnu.org/licenses/licenses.html)
 
+### Download
+
+* [μTorrent_Perfect_Uninstaller Download](https://github.com/NewPremium/uTorrent_Perfect_Uninstaller/archive/master.zip)
+
 ### 설명
 
 이 프로그램은 μTorrent를 완벽히 제거해 줍니다.
