@@ -10,7 +10,7 @@
 
 ### Download
 
-[μTorrent_Perfect_Uninstaller Download](https://github.com/NewPremium/uTorrent_Perfect_Uninstaller/archive/master.zip)
+  [μTorrent_Perfect_Uninstaller Download](https://github.com/NewPremium/uTorrent_Perfect_Uninstaller/archive/master.zip)
 
 ### 설명
 
