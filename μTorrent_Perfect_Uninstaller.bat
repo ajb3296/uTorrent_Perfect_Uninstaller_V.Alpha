@@ -5,9 +5,9 @@ setlocal enabledelayedexpansion
 cls
 
 ::chack zip file
-if not exist system\chack\¥ìTorrent_Perfect_Uninstaller (goto chack)
+if not exist system\chack\ãƒ¬Torrent_Perfect_Uninstaller (goto chack)
 
-::chack ¥ìTorrent
+::chack ãƒ¬Torrent
 if not exist %appdata%\uTorrent\uTorrent.exe (goto nouTorrent)
 
 ::Set window size
@@ -21,9 +21,9 @@ if not exist system\reg.bat (goto nofile)
 if not exist system\ (goto nofile)
 
 ::set other
-set v=V1.0
-set ut=¥ìTorrent Perfect Uninstaller
-set ut1=¥ìTorrent_Perfect_Uninstaller
+set v=V.Alpha
+set ut=ãƒ¬Torrent Perfect Uninstaller
+set ut1=ãƒ¬Torrent_Perfect_Uninstaller
 set zc=Zero_Cleaner
 set dreg=0
 set df=0
@@ -100,7 +100,7 @@ echo.>>%log%
 
 :main
 echo.
-echo. If you have removed the ¥ìTorrent, press the ENTER key.
+echo. If you have removed the ãƒ¬Torrent, press the ENTER key.
 system\uninstallw\uninstallw.exe utorrent >>%log%
 pause>nul
 echo.
@@ -109,8 +109,8 @@ echo.
 echo. >>%log%
 echo.-------------------------------------------------------------------- >>%log%
 echo. >>%log%
-echo. Removing the registry related to ¥ìTorrent. . .
-echo Removing the registry related to ¥ìTorrent. . .>>%log%
+echo. Removing the registry related to ãƒ¬Torrent. . .
+echo Removing the registry related to ãƒ¬Torrent. . .>>%log%
 reg delete HKEY_CLASSES_ROOT\uTorrent /f >Nul 2>Nul
 reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Classes\utorrent /f >Nul 2>Nul
 reg delete HKEY_CLASSES_ROOT\utorrent /f >Nul 2>Nul
@@ -122,8 +122,8 @@ echo.
 echo. >>%log%
 echo.-------------------------------------------------------------------- >>%log%
 echo. >>%log%
-echo. Remove files related to ¥ìTorrent
-echo Remove files related to ¥ìTorrent >>%log%
+echo. Remove files related to ãƒ¬Torrent
+echo Remove files related to ãƒ¬Torrent >>%log%
 del /q /s /f "%appdata%\uTorrent" >>%log%
 del /q /s /f "%ProgramFiles%\utorrent" >>%log%
 del /q /s /f "%systemdrive%\uTorrent.exe" >>%log%
@@ -178,9 +178,9 @@ exit
 
 :nouTorrent
 cls
-title ¥ìTorrent does not exist
+title ãƒ¬Torrent does not exist
 echo.
-echo. ¥ìTorrent does not exist
+echo. ãƒ¬Torrent does not exist
 echo. 
 echo. Press the ENTER key to exit.
 pause>nul
