@@ -21,7 +21,7 @@ if not exist system\reg.bat (goto nofile)
 if not exist system\ (goto nofile)
 
 ::set other
-set v=V.Alpha
+set v=V.Alpha 
 set ut=レTorrent Perfect Uninstaller
 set ut1=レTorrent_Perfect_Uninstaller
 set zc=Zero_Cleaner
