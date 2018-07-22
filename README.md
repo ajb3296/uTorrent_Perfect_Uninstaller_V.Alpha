@@ -16,7 +16,7 @@
 ### 설명
 
 * 이 프로그램은 μTorrent를 완벽히 제거해 줍니다.
-* batch 기반이므로 [Microsoft Windows](https://www.microsoft.com/) 상에서만 동작합니다(Windows 7, 8.1, 10).
+* batch 기반이므로 [Microsoft Windows](https://www.microsoft.com/) 상에서만 동작합니다 (Windows 7, 8.1, 10).
 
 ### 사용법
 
