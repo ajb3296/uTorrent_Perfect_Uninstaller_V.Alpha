@@ -5,7 +5,7 @@
 * [μTorrent](https://www.utorrent.com)
 * [UninstallW](http://www.installmate.com/support/uninstall.htm)
 
-### LICENCE
+### LICENSE
 
 * [GNU General Public License](https://www.gnu.org/licenses/licenses.html)
 
